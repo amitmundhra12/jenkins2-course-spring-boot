@@ -7,7 +7,7 @@ public class SampleBasicTest {
 
 	@Test
 	public void chatEndpoint() throws Exception {
-		boolean test = true;
+		boolean test = false;
 		
 		Assert.assertTrue("Test Passed", test);
 		
