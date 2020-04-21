@@ -14,6 +14,7 @@
 	</parent> -->
 	<artifactId>spring-boot-sample-atmosphere</artifactId>
 	<name>Spring Boot Atmosphere Sample</name>
+	<version>1.0.0.SNAPSHOT</version>
 	<description>Spring Boot Atmosphere Sample</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 	<organization>
